@@ -3,13 +3,14 @@
 ### PROGRAM 4 README FILE
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
-- What parts of the program you were not able to complete
+- valgrind
+
 
 ## REFERENCES:
-- List any outside resources used
+- N/A
 
 ## MISCELLANEOUS COMMENTS:
-- Anything you would like the grader to know
+- N/A
 
 # Assignment Description
 ## Program 4 - Files and Structures
