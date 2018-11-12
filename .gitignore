@@ -1,8 +1,7 @@
 
 # Prerequisites
 *.d
-makefile
-tournament.*
+
 
 # Object files
 *.o
