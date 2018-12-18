@@ -93,5 +93,3 @@ Lastly, you will need to write a function that cleans up memory for each team:
 You will need to point the team `delete` function pointer to this function
 
 
-
-:warning: You __MUST__ submit the commit hash on mycourses before the deadline to be considered on time **even if your program is completely working before the deadline**. :warning:
